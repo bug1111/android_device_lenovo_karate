@@ -5,7 +5,7 @@
 | Feature                 | Specification                     |
 | :---------------------- | :-------------------------------- |
 | CPU                     | Octa-core 1.4 GHz Cortex-A53      |
-| Chipset                 | Qualcomm MSM8940 Snapdragon 435   |
+| Chipset                 | Qualcomm MSM8940 Snapdragon 430   |
 | GPU                     | Adreno 505                        |
 | Memory                  | 3/4 GB                            |
 | Shipped Android Version | 6.0.1                             |
@@ -16,7 +16,7 @@
 | Display                 | 1080 x 1920 pixels, 5" (~441 PPI)   |
 | Rear Camera             | 13 MP, LED flash                  |
 | Front Camera            | 8 MP                              |
-| Release Date            | May 2017                          |
+| Release Date            | Dec 2016                         |
 
 ## Device Picture
 
